@@ -22,11 +22,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Install/ Enable IIS with CGI
+- Download and install PHP manager for IIS
+- Download and install Rewrite Module
+- Download PHP 7.3.8 and unzip in the directory file
+- Download Microsoft visual c++ 2015
+- Download MySQL 5.5.62
+- Register PHP from within IIS
+- Install osTicket
+- Enable php_imap.dll, php_intl.dll, php_opcache.dll
+- *Rename ost-config adn disable inheritance and add new permissions for everyone
+- Set up osTicket in browser
+- Install HeidiSQL
 
 <h2>Installation Steps</h2>
 
