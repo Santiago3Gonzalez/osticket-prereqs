@@ -3,12 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+This outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -31,40 +26,55 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Register PHP from within IIS
 - Install osTicket
 - Enable php_imap.dll, php_intl.dll, php_opcache.dll
-- *Rename ost-config adn disable inheritance and add new permissions for everyone
-- Set up osTicket in browser
+- Rename ost-config and disable inheritance and add new permissions for everyone
 - Install HeidiSQL
+- Set up osTicket in browser
+
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5c4CWTI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is after I had downloaded Iss and configured and then as you can see I enable
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MERWp3R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is after I had installed the PHP manager
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IjlCWop.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Before it was retired, I used MySQL to download: 
+     Php 5.6.31
+  ; Php 7.0.33 (x86)
+  ; Php 7.1.29
+  ; Php 7.2.26 (x86)
+  ; Php 7.3.25
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/BphYCkU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This is after I install osTicket and changed the name of sample config in its file to just ost-config. I also make sure to disable inheritance and allow all permissons in its properties
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/K4i53QL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This is after I install Hedi and then setup osTicket in the browser. 
 </p>
 <br />
